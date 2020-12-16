@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RPNCalc.js",
+  "dependencies": {
+    "@cucumber/cucumber": "^7.0.0-rc.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
